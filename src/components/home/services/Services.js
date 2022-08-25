@@ -7,8 +7,8 @@ import './Services.css'
 const Services = () => {
     const services = [
         {icon: design, title: "Web Design", description: "I love web design, I use some online tools to carry out my design to its potential"},
-        {icon: web, title: "Web Development", description: "I develop websites/applications, with MERN Stack or React + Firebase."},
-        {icon: mobile, title: "Mobile Development", description: "Developing mobile apps is really fun for me and I do it with React Native"}
+        {icon: web, title: "Web Development", description: "I develop websites/applications, with MERN Stack or React + Firebase, as well as .Net MVC Core with SQL"},
+        {icon: mobile, title: "Mobile Development", description: "Developing mobile apps really excites me and especially with mordern technologies such as React Native and Flutter"}
     ]
     return (
         <div className="services-container">
