@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio-sovtech/static/css/main.c51e29e3.chunk.css",
-    "main.js": "/portfolio-sovtech/static/js/main.73d164a1.chunk.js",
-    "main.js.map": "/portfolio-sovtech/static/js/main.73d164a1.chunk.js.map",
+    "main.css": "/portfolio-sovtech/static/css/main.9e9b5627.chunk.css",
+    "main.js": "/portfolio-sovtech/static/js/main.50ff74df.chunk.js",
+    "main.js.map": "/portfolio-sovtech/static/js/main.50ff74df.chunk.js.map",
     "runtime-main.js": "/portfolio-sovtech/static/js/runtime-main.e066adb4.js",
     "runtime-main.js.map": "/portfolio-sovtech/static/js/runtime-main.e066adb4.js.map",
     "static/js/2.0e349392.chunk.js": "/portfolio-sovtech/static/js/2.0e349392.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.ed22338a.chunk.js": "/portfolio-sovtech/static/js/3.ed22338a.chunk.js",
     "static/js/3.ed22338a.chunk.js.map": "/portfolio-sovtech/static/js/3.ed22338a.chunk.js.map",
     "index.html": "/portfolio-sovtech/index.html",
-    "static/css/main.c51e29e3.chunk.css.map": "/portfolio-sovtech/static/css/main.c51e29e3.chunk.css.map",
+    "static/css/main.9e9b5627.chunk.css.map": "/portfolio-sovtech/static/css/main.9e9b5627.chunk.css.map",
     "static/js/2.0e349392.chunk.js.LICENSE.txt": "/portfolio-sovtech/static/js/2.0e349392.chunk.js.LICENSE.txt",
     "static/media/app-development.6894d9fc.png": "/portfolio-sovtech/static/media/app-development.6894d9fc.png",
+    "static/media/doctor.c847bc8a.jpg": "/portfolio-sovtech/static/media/doctor.c847bc8a.jpg",
     "static/media/ecomm.02732bf1.jpg": "/portfolio-sovtech/static/media/ecomm.02732bf1.jpg",
     "static/media/logo.6ce24c58.svg": "/portfolio-sovtech/static/media/logo.6ce24c58.svg",
     "static/media/picture.eb2f44cc.jpeg": "/portfolio-sovtech/static/media/picture.eb2f44cc.jpeg",
-    "static/media/todos.8c292220.jpg": "/portfolio-sovtech/static/media/todos.8c292220.jpg",
     "static/media/web-design.9be7c478.png": "/portfolio-sovtech/static/media/web-design.9be7c478.png",
     "static/media/web-programming.c12c8bcf.png": "/portfolio-sovtech/static/media/web-programming.c12c8bcf.png",
     "static/media/writer.c0a0b322.jpg": "/portfolio-sovtech/static/media/writer.c0a0b322.jpg"
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.e066adb4.js",
     "static/js/2.0e349392.chunk.js",
-    "static/css/main.c51e29e3.chunk.css",
-    "static/js/main.73d164a1.chunk.js"
+    "static/css/main.9e9b5627.chunk.css",
+    "static/js/main.50ff74df.chunk.js"
   ]
 }
